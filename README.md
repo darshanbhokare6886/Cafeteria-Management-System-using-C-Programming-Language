@@ -1,5 +1,5 @@
 # Cafeteria-Management-System-using-C-Programming-Language
-Cafeteria Management System This project is a simple Cafeteria Management System implemented in C programming language. It allows for easy management of food items, orders, and provides functionalities for both admins and customers.
+This project is a simple Cafeteria Management System implemented in C programming language. It allows for easy management of food items, orders, and provides functionalities for both admins and customers.
 
 ## Features
 Admin Section: Admins can view total sales, add new items to the order menu, delete items from the order menu, and display the order menu.
